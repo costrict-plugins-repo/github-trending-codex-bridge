@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "thumbgate": {
+      "command": "npx",
+      "args": [
+        "--yes",
+        "--package",
+        "thumbgate@1.39.0",
+        "thumbgate",
+        "serve"
+      ]
+    }
+  }
+}
